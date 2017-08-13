@@ -1,0 +1,16 @@
+{
+  "name": "nextjs-focus-problem",
+  "version": "0.0.1",
+  "description": "Example app to show a problem with focus in a next.js app",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^3.0.3",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  }
+}
