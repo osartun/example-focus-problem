@@ -4,9 +4,9 @@
   "description": "Example app to show a problem with focus in a next.js app",
   "license": "MIT",
   "dependencies": {
-    "next": "^3.0.3",
-    "react": "^15.6.1",
-    "react-dom": "^15.6.1"
+    "next": "^4.2.3",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
   },
   "scripts": {
     "dev": "next",
